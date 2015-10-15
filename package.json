@@ -1,0 +1,8 @@
+{
+  "name": "tests",
+  "version": "0.0.1",
+  "dependencies": {
+    "should": "^7.1.0",
+    "supertest": "^1.1.0"
+  }
+}
